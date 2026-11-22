@@ -1,3 +1,5 @@
+> ⚠️ **Out of date.** This Vite port is behind the original. The maintained version is [josephcake/destroy-the-duck](https://github.com/josephcake/destroy-the-duck), which is the one live at [quackhunt.com](https://www.quackhunt.com).
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
